@@ -8,7 +8,7 @@ The environment is built on a Dell T430 tower server hosting both VMware ESXi 6.
 
 ## Topology
 
-![Topology](topology/Lab Environment.png)
+![Topology](Topology/Lab Environment.png)
 
 ### Network Design
 
