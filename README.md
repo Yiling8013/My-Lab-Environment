@@ -11,7 +11,8 @@ The environment is built on a Dell T430 tower server hosting both VMware ESXi 6.
 ![Lab Topology](./Topology/Lab%20Environment.png)
 
 ---
-## ESX 6.5.0 Management Page
-
-![Lab Topology](./Topology/Lab%20Environment.png)
+## ESX 6.5.0 Management
+![Lab Topology](./Topology/ESX_Host_Management.png)
 ---
+## EVE NG Platform
+![Lab Topology](./Topology/EVE_NG.png)
