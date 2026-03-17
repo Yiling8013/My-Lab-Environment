@@ -16,3 +16,13 @@ The environment is built on a Dell T430 tower server hosting both VMware ESXi 6.
 ---
 ## EVE NG Platform
 ![Lab Topology](./Topology/EVE_NG.png)
+---
+## Lab Environment – Physical Server
+
+The EVPN Multi-Site lab environment is deployed on a Dell PowerEdge T430 server with the following specifications:
+
+| Component | Specification |
+|----------|-------------|
+| CPU | Intel Xeon E5-2695 v3 (28 vCPUs) |
+| Memory | 192 GB RAM |
+| Hypervisor | VMware ESXi 6.5 |
