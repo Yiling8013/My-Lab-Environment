@@ -10,27 +10,6 @@ The environment is built on a Dell T430 tower server hosting both VMware ESXi 6.
 
 ![Lab Topology](./Topology/Lab%20Environment.png)
 
-### Network Design
-
-- Spine-leaf Clos architecture
-- Layer 3 underlay network
-- VXLAN overlay network
-- EVPN control plane using BGP
-- Anycast gateway for distributed routing
-
 ---
 
-## Lab Environment
-
-| Component | Platform |
-|---|---|
-| Network Emulator | EVE-NG |
-| Switch OS | Cisco Nexus 9000v |
-| Routing Protocol | OSPF |
-| Control Plane | BGP EVPN |
-| Overlay Technology | VXLAN |
-
 ---
-
-## Topology Structure
-# My-Lab-Environment
